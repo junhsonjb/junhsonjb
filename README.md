@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm probably trying to debug something somehwere. Or eating, I could be eating.
+This is a pretty cool feature, but I don't know what I want to put here. So I'll leave this here while I (over)think about it.
+
+Also check out [my website](http://junhsonjb.com/)!
